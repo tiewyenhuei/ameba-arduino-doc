@@ -156,29 +156,45 @@ The difference in detail can be seen after the LED's brightness is lowered in th
 
 
 .. |image01| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image01.jpg
+   :class: with-border
 .. |image02| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image02.jpg
+   :class: with-border
 .. |image03| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image03.jpg
+   :class: with-border
 .. |image04| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image04.jpg
+   :class: with-border
 .. |image05| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image05.jpg
+   :class: with-border
    :width:  700 px
    :height:  600 px
 
 .. |image06| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image06.jpg
+   :class: with-border
    :width:  700 px
    :height:  600 px
 
 .. |image07| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image07.jpg
+   :class: with-border
    :width:  700 px
    :height:  600 px
    
 .. |image08| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image08.jpg
+   :class: with-border
 .. |image09| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image09.jpg
+   :class: with-border
 .. |image10| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image10.jpg
+   :class: with-border
 .. |image11| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image11.jpg
+   :class: with-border
 .. |image12| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image12.jpg
+   :class: with-border
 .. |image13| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image13.jpg
+   :class: with-border
 .. |image14| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image14.jpg
+   :class: with-border
 .. |image15| image::  ../../../../_static/amebapro2/Example_Guides/Multimedia/AutoDayAndNight/image15.jpg
+   :class: with-border
+
 
 
 
